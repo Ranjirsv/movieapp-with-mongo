@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background:url('https://www.colourbox.com/preview/2045819-movie-theater-seats-3d-rendered-image.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+}
+nav{
+    margin-top:-40px;
+}
+
+a {
+  color: #00B7FF;
+}
+table{
+    margin-top:30px;
+    color:white;
+    font-size:18px;
+}
